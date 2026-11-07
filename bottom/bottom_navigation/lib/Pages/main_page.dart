@@ -31,8 +31,6 @@ class _MyWidgetState extends State<MainPage> {
         //  showSelectedLabels: true,
         //  unselectedItemColor: Colors.grey,
         //  selectedItemColor: Colors.purple,
-        backgroundColor: Colors.purple,
-        buttonBackgroundColor: Colors.yellow,
         index: bottomIndex,
         onTap: (value) {
           setState(() {
